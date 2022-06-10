@@ -1,5 +1,1 @@
-### Use to get around blocked YouTube videos ;)
-
-Find the finished product [here](https://yt.jcwyt.com).
-
-Credit to DuckDuckGo for some of the `<iframe>` code
+Click on the link in the description. Thank you so much to JonahKC for the base website code! Enjoy freedom! (laughs)
